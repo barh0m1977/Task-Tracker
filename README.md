@@ -9,4 +9,6 @@ Task Tracker allows users to create, complete, and track tasks in real time. The
 
 The UI is optimized for iOS with a clean layout, simple interactions, and fast performance.
 ## Screenshot
-<img width="500" height="1000" alt="TaskTracker" src="https://github.com/user-attachments/assets/137917f2-1c63-4761-b7d9-783ae908c962" />
+| Task Management | Delete Action |
+| --- | --- |
+| <img src="https://github.com/user-attachments/assets/137917f2-1c63-4761-b7d9-783ae908c962" width="300" /> | <img src="https://github.com/user-attachments/assets/25af5bfc-ad4f-4db5-bf59-a81a5f614bd1" width="300" /> |
