@@ -5,6 +5,7 @@
 //  Created by Indexer on 2/7/26.
 //
 
+
 import SwiftUI
 import SwiftData
 
@@ -12,8 +13,9 @@ import SwiftData
 struct Task_TrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainScreen()
         }
         .modelContainer(for : Task.self)
     }
 }
+
